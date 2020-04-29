@@ -1,60 +1,25 @@
 {
-  "data": [
-    {
-      "name": "David",
-      "place": "Karnataka",
-      "lat": 22.713146,
-      "lng": 88.479621,
-      "icon": "cusomer-icon.png",
-      "type": "car"
-    },
-    {
-      "name": "Animesh",
-      "place": "Rajasthan",
-      "lat": 22.714175,
-      "lng": 88.480866,
-      "icon": "cusomer-icon.png",
-      "type": "car"
-    },
-    {
-      "name": "Anil",
-      "place": "Ratnagiri, Maharashtra",
-      "lat": 22.712948,
-      "lng": 88.47916,
-      "icon": "cusomer-icon.png",
-      "type": "health"
-    },
-    {
-      "name": "Khandelwal",
-      "place": "Mumbai, Maharashtra",
-      "lat": 22.713186,
-      "lng": 88.480651,
-      "icon": "cusomer-icon.png",
-      "type": "health"
-    },
-    {
-      "name": "Pinaki",
-      "place": "Pindwara, Maharashtra",
-      "lat": 22.714512,
-      "lng": 88.482658,
-      "icon": "cusomer-icon.png",
-      "type": "car"
-    },
-    {
-      "name": "Saini",
-      "place": "Uttar pradesh",
-      "lat": 22.715244,
-      "lng": 88.482068,
-      "icon": "cusomer-icon.png",
-      "type": "property"
-    },
-    {
-      "name": "Kejriwal",
-      "place": "Delhi",
-      "lat": 22.714255,
-      "lng": 88.478999,
-      "icon": "cusomer-icon.png",
-      "type": "property"
-    }
-  ]
+	"data": [
+		{
+			"name": "Johny Ferberg",
+			"place": "Oslo",
+			"lat": 59.9115,
+			"lng": 10.759,
+			"insuranceType": "House"
+		},
+		{
+			"name": "Olivia Ferberg",
+			"place": "Oslo",
+			"lat": 59.912591,
+			"lng": 10.767933,
+			"insuranceType": "House"
+		},
+		{
+			"name": "Ona Fossen",
+			"place": "Oslo",
+			"lat": 59.910481,
+			"lng": 10.761133,
+			"insuranceType": "House"
+		}
+	]
 }
