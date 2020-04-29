@@ -1,0 +1,25 @@
+{
+	"data": [
+		{
+			"name": "Johny Ferberg",
+			"place": "Oslo",
+			"lat": 59.9115,
+			"lng": 10.759,
+			"insuranceType": "House"
+		},
+		{
+			"name": "Olivia Ferberg",
+			"place": "Oslo",
+			"lat": 59.912591,
+			"lng": 10.767933,
+			"insuranceType": "House"
+		},
+		{
+			"name": "Ona Fossen",
+			"place": "Oslo",
+			"lat": 59.910481,
+			"lng": 10.761133,
+			"insuranceType": "House"
+		}
+	]
+}
